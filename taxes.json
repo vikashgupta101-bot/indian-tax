@@ -1,0 +1,7 @@
+[
+  { "TaxName": "GST 0%", "Rate": 0 },
+  { "TaxName": "GST 5%", "Rate": 5 },
+  { "TaxName": "GST 12%", "Rate": 12 },
+  { "TaxName": "GST 18%", "Rate": 18 },
+  { "TaxName": "GST 28%", "Rate": 28 }
+]
